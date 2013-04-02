@@ -19,3 +19,5 @@ database.yml
 
 # Ignore enviroment files
 .rvmrc
+.ruby-gemset
+.ruby-version
